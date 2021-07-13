@@ -1,0 +1,24 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+#trynumber {
+  width: 100px;
+  background-color: grey;
+}
+.button {
+  width: 60px;
+  background-color: greenyellow;
+  color: white;
+  margin-bottom: 5px;
+}
+.message {
+  width: 100px;
+  border: solid grey 3px;
+  margin-bottom: 5px;
+}
+.attempts {
+  width: 100px;
+  border: solid grey 3px;
+}
